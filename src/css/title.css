@@ -1,0 +1,22 @@
+.name { 
+    font-family: 'Oswald';
+    color: black;
+    font-size: 8rem;
+    margin-bottom: 0;
+}
+
+.Title-contents {
+    background-color: #CFF5E7;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 100vw;
+    
+}
+
+.subtitle {
+    font-family: 'Oswald';
+    font-size: 3rem;
+    color: black;
+}

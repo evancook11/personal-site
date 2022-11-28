@@ -1,0 +1,13 @@
+.container {
+    display: flex;
+    width: 50%;
+    margin: 10px;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.paragraph {
+    font-family: "Oswald";
+    font-size: 2em;
+}

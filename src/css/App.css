@@ -1,0 +1,27 @@
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+
+
+.darkSection {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #A0E4CB;
+  width: 100vw;
+  height: 50vh;
+}
+
+.lightSection {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #CFF5E7;
+  width: 100vw; 
+  height: 50vh;
+  padding: 0;
+}
